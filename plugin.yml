@@ -1,5 +1,5 @@
 name: Factions_EnemyKillBonus
-main: com.github.nerdshark.factions.EnemyKillBonusPlugin
+main: com.github.nerdshark.factions.EnemyKillBonus
 version: 0.1
 description: This plugin defines a multiplier that modifies the experience dropped when a player kills another player of an enemy faction.
 author: nerdshark
